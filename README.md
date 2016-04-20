@@ -1,4 +1,5 @@
 How to obtain refresh tokens using the server:
+
 1. Clone the repository and navigate to its root folder
 2. Run npm install
 3. Go to 
