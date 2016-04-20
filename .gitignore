@@ -31,3 +31,6 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# Do not track config.js as sensitive info is there
+config.js
